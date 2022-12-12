@@ -1,5 +1,5 @@
 # Overview
-ARM detect This is a fraud dection tool with is used main to dectect fraud though checkpage,by which is used mostly in the ecommerce sapce
+ARM detect This is a fraud dection tool with is used main to dectect fraud though checkpage,by which is used mostly in the ecommerce sapce. this is an MVP due to the timeline wasnt able to finished it up slide are not here still,will get it if am invited for the pitch.
 
 The code for this outscored while i work on other part  and also they all work well thos  it's unfinished , it runs, but the features still need to be integrated together in a coherent way.
 
